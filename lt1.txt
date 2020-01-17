@@ -30,7 +30,6 @@ CCTV5+ 体育赛事HD,http://101.207.178.8/pltv/88888888/224/3221227493/1.m3u8
 劲爆体育,http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
 iHOT爱体育HD,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
 NewTV超级体育HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
-NewTV搏击HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
 NewTV精品体育HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
 iHOT爱赛车HD,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 虎牙-MMC战神录HD,http://al.hls.huya.com/backsrc/21310634-2726804434-11711535866617790464-3227426132-10057-A-0-1.m3u8
@@ -50,12 +49,6 @@ FOXSPORT2,p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
 FOXSPORT3,vjms://58.215.133.185:8500:3502/live/cid=95#http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv#vjms://121.14.222.75:8500:3502/live/cid=95
 爱尔达体育HD,vjms://58.215.133.185:8500:3502/live/cid=266#vjms://121.14.222.75:8500:3502/live/cid=266#vjms://23.237.33.155:8500:3502/live/cid=266
 博斯高球1,vjms://58.215.133.185:8500:3502/live/cid=265#http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv#vjms://121.14.222.75:8500:3502/live/cid=265#vjms://23.237.33.155:8500:3502/live/cid=265
-博斯高球2,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts#http://pili-live-hdl.qhmywl.com/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.flv
-博斯魅力网,http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv
-博斯无限二台,http://pili-live-hdl.qhmywl.com/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.flv
-博斯网球台,http://pili-live-hdl.qhmywl.com/dsdtv/cf415a2419c61638eefa5eb8c5a65922.flv
-博斯运动二台,http://pili-live-hdl.qhmywl.com/dsdtv/c71aa3f9ef9e92531a06863b9a731849.flv
-博斯运动一台,http://pili-live-hdl.qhmywl.com/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
 纬来体育,vjms://58.215.133.185:8500:3502/live/cid=202#http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv#vjms://121.14.222.75:8500:3502/live/cid=202#vjms://23.237.33.155:8500:3502/live/cid=202
 智林体育,http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
 Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
@@ -219,6 +212,7 @@ NewTV金牌综艺HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/1
 NewTV惊悚悬疑HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/1.m3u8
 NewTV精品大剧HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/1.m3u8
 NewTV军旅剧场HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/1.m3u8
+电影HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
 电影HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
 电影HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/1.m3u8
 电影HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/1.m3u8
