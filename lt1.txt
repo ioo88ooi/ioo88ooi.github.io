@@ -12,17 +12,12 @@ cctv9 纪录HD,http://101.207.178.8/pltv/88888888/224/3221227425/1.m3u8#http://3
 CCTV10 科教HD,http://101.207.178.8/pltv/88888888/224/3221227375/1.m3u8#http://39.135.34.151:18890/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=7019587760656900133&owchid=ystenlive&owsid=1106497909461152716&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5DtJGdM%2bq9fDiivHNjKl%2bK%2b9%2fvTG5xUEzd4ADPtXjiSOOAPl07bvHVEc1KInbp3p%2fXrmwsjTHZ%2fLcoxEWqnCxI
 cctv11 戏曲,http://39.135.34.157:18890/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=1106497909461158507&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUELVtb8TDQzMSm5TScAJJF9JU4YcW5z4YHYDU6y7yn5EMhEqmI%2fAHiE6j4Y95QQ6#http://101.207.178.8/pltv/88888888/224/3221227385/1.m3u8
 CCTV12 社会与法HD,http://101.207.178.8/pltv/88888888/224/3221227377/1.m3u8#http://39.135.34.153:18890/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=1106497909461165978&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7Q36zc4fu7NwQ%2fn1v2mTHqagOL8gLhzmY66HLCxgy24bGH5Xn1D6yEQdwViWmtBz15WRKuKxWsf0XH20JE0dby
-CCTV13 新闻,http://101.207.178.8/pltv/88888888/224/3221227389/1.m3u8#http://39.135.34.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE#http://web.hls.timetv.cn/mlive/cctv/cctv13hd.m3u8
+CCTV13 新闻,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/2000204603.m3u8#http://101.207.178.8/pltv/88888888/224/3221227389/1.m3u8#http://39.135.34.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE#http://web.hls.timetv.cn/mlive/cctv/cctv13hd.m3u8
 CCTV14 少儿HD,http://101.207.178.8/pltv/88888888/224/3221227379/1.m3u8#http://39.135.34.147:18890/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8203666801302077036&owchid=ystenlive&owsid=1106497909461179285&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5OdsPl7aB2c%2fh9IG5fEu5Y1yWuhr6PsL8ovQK5JmdmvjbSpXjguwCa8emDxg5lQPKN6B6go0yKDtys3NmnOM6U
 CCTV15 音乐,http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy#http://101.207.178.8/pltv/88888888/224/3221227393/1.m3u8
 CCTV17 农业农村HD,http://101.207.178.8/pltv/88888888/224/3221227577/1.m3u8#http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
 中国教育1台HD,http://101.207.178.8/pltv/88888888/224/3221227339/1.m3u8
 中国教育4台,http://101.207.178.8/pltv/88888888/224/3221227337/1.m3u8
-精彩4K,#genre#
-BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 体育频道,#genre#
 CCTV5 体育HD,http://101.207.178.8/pltv/88888888/224/3221227491/1.m3u8
 CCTV5+ 体育赛事HD,http://101.207.178.8/pltv/88888888/224/3221227493/1.m3u8
@@ -71,8 +66,8 @@ CDTV-3 都市生活频道,http://101.207.178.8/pltv/88888888/224/3221227497/1.m3
 CDTV-4 影视文艺频道,https://guihet.com/download/livetv/cditv/cditv.php?show-192-45-1
 CDTV-5 公共频道[640*363],https://guihet.com/download/livetv/cditv/cditv.php?show-192-5-1
 CDTV-6 少儿频道,https://guihet.com/download/livetv/cditv/cditv.php?show-192-6-1
-金堂电视台[960*540],https://guihet.com/download/livetv/cditv/cditv.php?show-2762-840-1
-郫都电视台[960*540],https://guihet.com/download/livetv/cditv/cditv.php?show-2762-845-1
+金堂台[960*540],https://guihet.com/download/livetv/cditv/cditv.php?show-2762-840-1
+郫都台[960*540],https://guihet.com/download/livetv/cditv/cditv.php?show-2762-845-1
 PANDA熊猫新闻HDHD,http://101.207.178.8/pltv/88888888/224/3221227583/1.m3u8
 PANDA直播间HD,http://101.207.178.8/pltv/88888888/224/3221227515/1.m3u8
 阿坝ABTVHD,http://101.207.178.8/pltv/88888888/224/3221227561/1.m3u8
@@ -104,7 +99,8 @@ iHOT爱旅行HD,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/888888
 iHOT爱探索HD,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
 NewTV军事评论HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8
 卫视频道,#genre#
-河南卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=019&Provider_id=&Pcontent_id=index.m3u8
+河南卫视,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/2000296103.m3u8
+#http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=019&Provider_id=&Pcontent_id=index.m3u8
 安徽卫视HD,http://101.207.178.8/pltv/88888888/224/3221227363/1.m3u8
 北京卫视HD,http://101.207.178.8/pltv/88888888/224/3221227397/1.m3u8
 重庆卫视HD,http://101.207.178.8/pltv/88888888/224/3221227359/1.m3u8
@@ -169,7 +165,7 @@ TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 纬来日本,vjms://121.14.222.75:8500:3502/live/cid=102#vjms://23.237.33.155:8500:3502/live/cid=102
 澳亚卫视,vjms://121.14.222.75:8500:3502/live/cid=337#http://stream.mastvnet.com/MASTV/playlist.m3u8#vjms://23.237.33.155:8500:3502/live/cid=337
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+香港开,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
@@ -201,8 +197,8 @@ iHOT爱科学HD,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/888888
 iHOT爱时尚HD,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
 iHOT爱青春HD,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
 NewTV爱情喜剧HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
-NewTV超级电视剧HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/1.m3u8
-NewTV超级电视剧HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225928/1.m3u8
+NewTV超级剧HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/1.m3u8
+NewTV超级剧HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225928/1.m3u8
 NewTV超级电影HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 NewTV超级综艺HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8
 NewTV潮妈辣婆HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/1.m3u8
@@ -238,7 +234,7 @@ NewTV军旅剧场HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/1
 电影-重案六组,https://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
 黑帮电影HD,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 电影大片HD,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
-热播电视剧HD,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
+热播剧HD,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
 家庭剧场HD,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
 收视冠军HD,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
 名侦探柯南HD,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
